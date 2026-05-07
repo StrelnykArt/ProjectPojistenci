@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\strelnyk\\source\\repos\\consoleapp1\\consoleapp1\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\strelnyk\\source\\repos\\consoleapp1\\consoleapp1\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\consoleapp1\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\strelnyk\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\consoleapp1\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF9DA993-7F80-4A42-AD77-EF1F6684C62F}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\consoleapp1\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T14:54:32.266Z",
               "IsPinned": true,
@@ -48,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GUI.cs",
               "DocumentMoniker": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\GUI.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\GUI.cs",
               "ToolTip": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\GUI.cs",
               "RelativeToolTip": "ConsoleApp1\\GUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T15:00:08.731Z",
               "IsPinned": true,
@@ -62,41 +58,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lib.cs",
               "DocumentMoniker": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Lib.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Lib.cs",
               "ToolTip": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Lib.cs",
               "RelativeToolTip": "ConsoleApp1\\Lib.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T16:14:16.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Pojistenec.cs",
               "DocumentMoniker": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Pojistenec.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Pojistenec.cs",
               "ToolTip": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Pojistenec.cs",
               "RelativeToolTip": "ConsoleApp1\\Pojistenec.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T14:53:29.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Load.cs",
-              "DocumentMoniker": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Load.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Load.cs",
-              "ToolTip": "C:\\Users\\Strelnyk\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Load.cs",
-              "RelativeToolTip": "ConsoleApp1\\Load.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T16:06:33.581Z",
               "EditorCaption": ""
             }
           ]

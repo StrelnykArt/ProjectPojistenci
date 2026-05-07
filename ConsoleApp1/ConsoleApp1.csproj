@@ -60,7 +60,6 @@
   <ItemGroup>
     <Compile Include="GUI.cs" />
     <Compile Include="Lib.cs" />
-    <Compile Include="Load.cs" />
     <Compile Include="Pojistenec.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

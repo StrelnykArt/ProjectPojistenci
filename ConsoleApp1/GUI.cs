@@ -18,6 +18,7 @@ namespace ConsoleApp1
                 Console.WriteLine($"Je to GUI");
                 Console.WriteLine($"1) Pridat novyho pojistence");
                 Console.WriteLine($"2) Save");
+                Console.WriteLine($"3) Leave...");
                 Console.WriteLine($"\n");
 
                 Console.Write($":");
@@ -50,7 +51,8 @@ namespace ConsoleApp1
                         }
                         
                         break;
-                    case 2: Console.WriteLine($"Saving..."); Load.Export(); break;
+                    case 2: Console.WriteLine($"Saving..."); Pojistenec.CompareAndSave(); break;
+                    case 3: Console.WriteLine($"Ex..."); guiStat = false; break;
                     default: Console.WriteLine($"Zadejte jine cislo"); break;
                 }
                 
