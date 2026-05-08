@@ -18,7 +18,9 @@ namespace ConsoleApp1
                 Console.WriteLine($"Je to GUI");
                 Console.WriteLine($"1) Pridat novyho pojistence");
                 Console.WriteLine($"2) Save");
-                Console.WriteLine($"3) Leave...");
+                Console.WriteLine($"3) Vypis pridavanych Pojistencu");
+                Console.WriteLine($"4) Vypis vsech Pojistencu");
+                Console.WriteLine($"5) Leave...");
                 Console.WriteLine($"\n");
 
                 Console.Write($":");
@@ -43,16 +45,20 @@ namespace ConsoleApp1
                         try
                         {
                             Lib.Add(new Pojistenec(jmeno, prijmeni, email, cisloMob));
+                            Console.Clear();
                             Console.WriteLine($"Pridani noveho pojistence...");
                         }
                         catch (Exception ex)
                         {
+                            Console.Clear();
                             Console.WriteLine($"{ex.Message}");
                         }
                         
                         break;
-                    case 2: Console.WriteLine($"Saving..."); Pojistenec.CompareAndSave(); break;
-                    case 3: Console.WriteLine($"Ex..."); guiStat = false; break;
+                    case 2: Console.WriteLine($"Saving..."); Console.Clear(); Pojistenec.CompareAndSave(); break;
+                    case 3: Console.Clear(); Lib.GetAllNewPojistenci(); break;
+                    case 4: Lib.GetPojistenci(); break;
+                    case 5: Console.WriteLine($"Ex..."); guiStat = false; break;
                     default: Console.WriteLine($"Zadejte jine cislo"); break;
                 }
                 

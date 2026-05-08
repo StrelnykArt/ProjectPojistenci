@@ -1,3 +1,4 @@
 Artem;Strelnyk;abc;abc
 Eduard;Lohvinov;abc;abc
 Pavel;Ptacek;abcde;abc
+Artem;Strelnyk;strelnyk.my@gmail.com;+420773478617

@@ -41,6 +41,7 @@ namespace ConsoleApp1
                         string meow = listNewPojistenci.ElementAt(a).Email;
                         if (meow == mail)
                         {
+                            Console.WriteLine($"!ERR!\nPojistenec => {listNewPojistenci.ElementAt(a)}. Nebyl pridan do systemu, zadany Pojistenec se stejnym Emailem jiz existuje.\n");
                             listNewPojistenci.RemoveAt(a);
                         }
                         
